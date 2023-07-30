@@ -1,7 +1,7 @@
 <h3 align="center">Microservices Architecture of Product Order</h3>
 
 <h3 align="left">The Project Architecture</h3>
-![MICRO-ARCHITECTURE](https://github.com/RaedNefzi98/WEB3_TRANSACTION_APP/assets/74836098/41070bde-f6d6-4c77-ba7b-c9e4a37d54d1)
+
 <p align="left">
 </p>
 
