@@ -2,7 +2,7 @@
 
 <h3 align="left">The Project Architecture</h3>
 
-<p align="left">
+![MICRO-ARCHITECTURE](https://github.com/RaedNefzi98/SPRING_ADVANCED_MICROSERVICES_ARCHITECTURE/assets/74836098/29550d98-efec-43cc-bf9a-2289d44667d2)
 </p>
 
 <h3 align="left">Technologies & Tools Used:</h3>
